@@ -1,0 +1,14 @@
+
+body{
+    background-color: gray;
+}
+
+
+.jumbotron{
+
+    background-image: url(https://placeimg.com/2000/1000/nature);
+    background-size :cover;
+    background-repeat: no-repeat;
+    
+   
+}
