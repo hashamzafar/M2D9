@@ -1,6 +1,6 @@
 
 body{
-    background-color: gray;
+    background-color:black;
 }
 
 
@@ -10,4 +10,8 @@ body{
     background-size :cover;
     background-repeat: no-repeat;
  
+}
+.card{
+    color: lightgray;
+   
 }
